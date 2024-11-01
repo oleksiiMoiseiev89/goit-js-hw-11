@@ -5,7 +5,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 import httpRequest from './js/pixabay-api.js';
 import createMarkup from './js/render-functions.js';
 
-const key = '45158363-d126d9ec5bd50365e414d8df4';
+const key = '46849088-f4247fdb1b297b5b75b98a0ef';
 const form = document.querySelector('.form');
 const list = document.querySelector('.list');
 
